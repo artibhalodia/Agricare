@@ -1,0 +1,19 @@
+.left-div {
+  background-color: #c3e8bd;
+  border-radius: 10px;
+}
+
+.middle-div {
+  background-color: #c3e8bd;
+  border-radius: 10px;
+}
+
+.submit-btn {
+  margin-top: 8rem;
+}
+
+@media only screen and (min-width: 768px) {
+  .d-flex {
+    flex-wrap: nowrap;
+  }
+}

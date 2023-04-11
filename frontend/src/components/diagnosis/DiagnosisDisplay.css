@@ -1,0 +1,28 @@
+.card-header-st {
+  background-color: #5b7553 !important;
+}
+
+.text-stl {
+  color: #dcfad2 !important;
+}
+
+.text-bg {
+  background-color: #cbe9c2 !important;
+}
+
+.list-group-st {
+  background-color: #f8f9fa !important;
+}
+
+.col-md-8 {
+  text-align: center;
+}
+
+.card-st {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  padding: 20px;
+  font-size: 18px;
+}
